@@ -1,3 +1,16 @@
+.bm {
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 40%;
+}
+
+.text {
+  font-size: 50px;
+  color: rgb(50, 163, 5);
+  font-weight: bold;
+}
 @keyframes object-rotate {
   0% {
     transform: rotateY(0deg);
